@@ -106,7 +106,7 @@ class _HomePageState extends State<HomePage> {
         child: Column(
           children: [
             Image.network(
-                'https://raw.githubusercontent.com/hideusnofear/zoop/master/assets/img/zoop.png')
+                'https://raw.githubusercontent.com/hideusnofear/zoop/master/lib/zoop.png')
           ],
         ),
       ),
